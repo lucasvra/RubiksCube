@@ -1,0 +1,17 @@
+/home/lucasvra/OneDrive/Documentos/Projetos/Rubik/RubikCube/RubikCube/obj/Debug/netcoreapp3.1/RubikCube.csprojAssemblyReference.cache
+/home/lucasvra/OneDrive/Documentos/Projetos/Rubik/RubikCube/RubikCube/obj/Debug/netcoreapp3.1/RubikCube.csproj.CoreCompileInputs.cache
+/home/lucasvra/OneDrive/Documentos/Projetos/Rubik/RubikCube/RubikCube/obj/Debug/netcoreapp3.1/RubikCube.AssemblyInfoInputs.cache
+/home/lucasvra/OneDrive/Documentos/Projetos/Rubik/RubikCube/RubikCube/obj/Debug/netcoreapp3.1/RubikCube.AssemblyInfo.cs
+/home/lucasvra/OneDrive/Documentos/Projetos/Rubik/RubikCube/RubikCube/bin/Debug/netcoreapp3.1/RubikCube.dll
+/home/lucasvra/OneDrive/Documentos/Projetos/Rubik/RubikCube/RubikCube/bin/Debug/netcoreapp3.1/RubikCube.pdb
+/home/lucasvra/OneDrive/Documentos/Projetos/Rubik/RubikCube/RubikCube/obj/Debug/netcoreapp3.1/RubikCube.dll
+/home/lucasvra/OneDrive/Documentos/Projetos/Rubik/RubikCube/RubikCube/obj/Debug/netcoreapp3.1/RubikCube.pdb
+C:\Users\Lucas\OneDrive\Documentos\Projetos\Rubik\RubikCube\RubikCube\bin\Debug\netcoreapp3.1\RubikCube.deps.json
+C:\Users\Lucas\OneDrive\Documentos\Projetos\Rubik\RubikCube\RubikCube\bin\Debug\netcoreapp3.1\RubikCube.dll
+C:\Users\Lucas\OneDrive\Documentos\Projetos\Rubik\RubikCube\RubikCube\bin\Debug\netcoreapp3.1\RubikCube.pdb
+C:\Users\Lucas\OneDrive\Documentos\Projetos\Rubik\RubikCube\RubikCube\obj\Debug\netcoreapp3.1\RubikCube.csprojAssemblyReference.cache
+C:\Users\Lucas\OneDrive\Documentos\Projetos\Rubik\RubikCube\RubikCube\obj\Debug\netcoreapp3.1\RubikCube.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\Projetos\Rubik\RubikCube\RubikCube\obj\Debug\netcoreapp3.1\RubikCube.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\Projetos\Rubik\RubikCube\RubikCube\obj\Debug\netcoreapp3.1\RubikCube.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Documentos\Projetos\Rubik\RubikCube\RubikCube\obj\Debug\netcoreapp3.1\RubikCube.dll
+C:\Users\Lucas\OneDrive\Documentos\Projetos\Rubik\RubikCube\RubikCube\obj\Debug\netcoreapp3.1\RubikCube.pdb
