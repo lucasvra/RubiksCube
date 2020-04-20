@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubikCube", "RubikCube\RubikCube.csproj", "{87C9FE2B-5BAE-4FA4-82CD-5AAE8F95B7BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRubik", "TestRubik\TestRubik.csproj", "{E11BE0D3-87D7-4C70-B757-1719C94ABEEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87C9FE2B-5BAE-4FA4-82CD-5AAE8F95B7BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C9FE2B-5BAE-4FA4-82CD-5AAE8F95B7BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C9FE2B-5BAE-4FA4-82CD-5AAE8F95B7BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C9FE2B-5BAE-4FA4-82CD-5AAE8F95B7BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E11BE0D3-87D7-4C70-B757-1719C94ABEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11BE0D3-87D7-4C70-B757-1719C94ABEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11BE0D3-87D7-4C70-B757-1719C94ABEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11BE0D3-87D7-4C70-B757-1719C94ABEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
